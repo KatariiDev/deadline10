@@ -86,8 +86,9 @@ body {
     background-color: rgba(245, 247, 250, 1);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
+    gap: 100px;
 }
 
 .b-1__box-1--ch {
@@ -145,7 +146,7 @@ span {
     align-items: center;
     gap: 8px;
     position: relative;
-    bottom: -50px;
+    bottom: 10px;
 }
 
 
